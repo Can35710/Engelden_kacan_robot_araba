@@ -1,13 +1,12 @@
 Ardunio ile engelden kaçan robot araba 
 Bu proje Robotik Kodlama Dersi kapsamında hazırlanmıştır.Projein resmi Aşağıdadır
-![HC-SR04 ultrasonik sensör ile engelden kaçan robot](https://github.com/Can35710/Engelden_kacan_robot_araba/assets/134143225/aaf57094-f171-4d8f-8d60-82f27f14841a)
+
+![HC-SR04 ultrasonik sensör ile engelden kaçan robot](https://github.com/Can35710/Engelden_kacan_robot_araba/assets/134143225/0982ee7a-bee1-48f2-abf4-6d532ae13c58)
 
 
 
 Projenin Devre Şeması
 ![Devre_Şeması](https://github.com/Can35710/Engelden_kacan_robot_araba/assets/134143225/d3207993-44cb-4e19-a298-2127f12bde6a)
-
-
 
 Projede Kullanılan Malzemeler:
 1-Arduino Uno
